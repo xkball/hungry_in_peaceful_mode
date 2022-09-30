@@ -1,4 +1,4 @@
-# hungry_in_peaceful_mode
+# 无中生饥--hungry_in_peaceful_mode
 
 一个非常简单的模组
 
