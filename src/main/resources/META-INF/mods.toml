@@ -9,7 +9,7 @@ modId="hungry_in_peaceful_mode" #mandatory
 version="0.1" #mandatory
  # A display name for the mod
 displayName="Hungry In Peaceful Mode" #mandatory
-logoFile="examplemod.png" #optional
+logoFile="hip_logo.png" #optional
 credits="Thanks for this example mod goes to Java" #optional
 # A text field displayed in the mod UI
 authors="xkball" #optional
