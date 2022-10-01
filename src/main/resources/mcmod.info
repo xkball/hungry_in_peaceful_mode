@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hungry_in_peaceful_mode",
+  "name": "Hungry In Peaceful Mode",
+  "description": "Allow drop foollevel in peaceful mode.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["xkball"],
+  "credits": "xkball",
+  "logoFile": "hip_logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

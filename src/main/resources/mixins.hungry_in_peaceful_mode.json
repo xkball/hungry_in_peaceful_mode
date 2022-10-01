@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.xkball.hungry_in_peaceful_mode.mixin",
+  "mixins": [
+    "MixinEntityPlayer",
+    "MixinFoodStats"
+  ],
+  "client": [
+  ],
+  "server": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "mixins.hungry_in_peaceful_mode.refmap.json"
+}
